@@ -1,0 +1,30 @@
+{
+  "name": "NoderSV",
+  "version": "1.0.0",
+  "description": "Comunidad Noders El Salvador",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:chiliseo/noders-sv.git"
+  },
+  "keywords": [
+    "Node.js",
+    "NodersSV",
+    "Noders",
+    "El",
+    "Salvador",
+    "Noders",
+    "SV",
+    "El",
+    "Salvador"
+  ],
+  "author": "Adriano Chiliseo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
