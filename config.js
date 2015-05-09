@@ -9,7 +9,7 @@ config = {
     // ### Development **(default)**
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
-        url: 'http://127.0.0.1/',
+        url: 'http://nodersv.azurewebsites.net/',
 
         // Example mail config
         // Visit http://docs.ghost.org/mail for instructions
@@ -48,7 +48,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'nodersv.azurewebsites.net/',
+        url: 'http://nodersv.azurewebsites.net/',
         mail: {},
         database: {
             client: 'sqlite3',
