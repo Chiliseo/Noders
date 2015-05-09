@@ -4,7 +4,7 @@
   "description": "Comunidad Noders El Salvador",
   "main": "app.js",
   "scripts": {
-    "start":"node app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +25,8 @@
   "author": "Adriano Chiliseo",
   "license": "ISC",
   "dependencies": {
-        "express": "^4.12.3"
+    "express": "^4.12.3",
+    "ghost": "0.4.2",
+    "http-proxy": "^1.11.1"
   }
 }
